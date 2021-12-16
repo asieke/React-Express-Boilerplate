@@ -12,7 +12,7 @@ npm install
 
 ### Running the server
 
-Kick off webpack so that its running.  Its set to use the -w option so it'll continuously compile the `client/src` directory into `client/src/bundle`
+Kick off webpack so that its running.  Its set to use the -w option so it'll continuously compile the `client/src` directory into `client/dist`
 
 ```console
 npm run react-dev
